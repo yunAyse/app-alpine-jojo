@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+.container-card-option{
+gap: 15px;
+}
+.card-option{
+    padding: 5px;
+    height: 300px;
+    width: 300px;
+    border: solid 3px #010080;
+    border-radius: 5PX;
+}
